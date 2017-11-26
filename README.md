@@ -1,5 +1,5 @@
 # central_auth
-An centralized authentication service writen in Ruby using the Rack web API.
+A centralized authentication service writen in Ruby using the Rack web API.
 
 # TODO
 1. Parameterize the sql query in lib/auth.rb
